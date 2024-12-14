@@ -1,5 +1,5 @@
 # Database-Ecommerce
-Nhóm 15
+Nhóm 15.
 Nhóm trưởng: Hoàng Sơn 23020423
 Thành viên:
 - Nguyễn Công Trình 23020441
