@@ -54,7 +54,7 @@ BEGIN
     END IF;
     
     -- store userID into applied_userID
-    SELECT payments.userID INTO userID
+    SELECT orders.userID INTO userID
     FROM orders
     WHERE orders.orderID = orderID;
     
